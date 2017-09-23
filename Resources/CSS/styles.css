@@ -1,0 +1,14 @@
+html {
+
+}
+.headercontainer {display: flex;
+  height: 69px;
+  width: 100%;
+  background-color: black;
+  border-bottom: solid 1px seashell;
+}
+
+.logo {
+  flex: 1;
+  padding-left: 10px;
+  padding-top: 10px
