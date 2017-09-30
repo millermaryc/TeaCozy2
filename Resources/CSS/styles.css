@@ -97,6 +97,7 @@ body {
     #locations {
       background-image: url("../images/img-locations-background.jpg");
       background-repeat: no-repeat;
+      background-position: center;
       height: 500px;
       width: 100%;
       opacity: 0.9;
